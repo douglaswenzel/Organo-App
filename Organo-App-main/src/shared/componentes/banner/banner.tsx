@@ -2,8 +2,8 @@ import './banner.css'
 
 function Banner(){
     return(
-        <header className="banner">
-        <img src="../../img/banner.png" alt="Banner" />
+        <header className="banner-principal">
+        <img src="../../img/banner.png" alt="Banner principal" />
         </header>
     )
 }
